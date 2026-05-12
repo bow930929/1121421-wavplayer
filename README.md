@@ -14,11 +14,8 @@
 
 ## 介面配置
 
-```
-<img width="1204" height="507" alt="image" src="https://github.com/user-attachments/assets/2bca92cd-80b9-42fb-9e5a-6108249bd057" />
+<img width="1200" height="508" alt="image" src="https://github.com/user-attachments/assets/1e83b872-4ba4-4eab-9e68-29a2c4669458" />
 
-
-```
 
 ## 注意事項
 
