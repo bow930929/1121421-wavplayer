@@ -15,7 +15,8 @@
 ## 介面配置
 
 ```
-<img width="1204" height="507" alt="image" src="https://github.com/user-attachments/assets/d8188f0c-37b3-4e61-9902-f5daa9bcbe5c" />
+<img width="1204" height="507" alt="image" src="https://github.com/user-attachments/assets/2bca92cd-80b9-42fb-9e5a-6108249bd057" />
+
 
 ```
 
